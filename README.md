@@ -1,6 +1,6 @@
-<center>
+<p>
     <h1>Hi there, I'm Zhe Ning</h1>
-</center>
+</p>
 
 <!-- Badges -->
 
@@ -11,17 +11,14 @@
 -->
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/chinzhening/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-    "/>
+    <a href="https://www.linkedin.com/in/chinzhening">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://leetcode.com/bingchin03/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%23e39c0e?style=for-the-badge&logo=leetcode&logoColor=white
-    "/>
+    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%23e39c0e?style=for-the-badge&logo=leetcode&logoColor=white"/>
     </a>
     <a href="https://www.hackerrank.com/profile/ning_chin03">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white
-    "/>
+    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
     </a>
 </p>
 <!--
