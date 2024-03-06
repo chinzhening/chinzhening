@@ -1,6 +1,6 @@
-<center>
+<p align=center>
     <h1>Hi there, I'm Zhe Ning</h1>
-</center>
+</p>
 
 <!-- Badges -->
 
@@ -9,33 +9,32 @@
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 -->
-<a href="https://www.linkedin.com/in/chinzhening/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-  "/>
-</a>
-<a href="https://leetcode.com/bingchin03/">
-  <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%23e39c0e?style=for-the-badge&logo=leetcode&logoColor=white
-  "/>
-</a>
-<a href="https://www.hackerrank.com/profile/ning_chin03">
-  <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white
-  "/>
-</a>
 
+<p>
+    <a href="https://www.linkedin.com/in/chinzhening/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+    "/>
+    </a>
+    <a href="https://leetcode.com/bingchin03/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%23e39c0e?style=for-the-badge&logo=leetcode&logoColor=white
+    "/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/ning_chin03">
+    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white
+    "/>
+    </a>
+</p>
 <!--
 <a href="[link]">
   <img alt="[text]" src="[img]"/>
 </a>
 -->
 
-<br>
-
-<h2>Projects</h2>
+## Projects
 Nothing to see here yet!
 
-<br>
 
-<h2>About Me</h2>
+## About Me
 Second-year Maths student @ the National University of Singapore. Enthusiastic about probability theory and algebra.
 
 <br>
