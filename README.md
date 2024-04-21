@@ -40,9 +40,9 @@
     Second-year Maths student @ the National University of Singapore. Enthusiastic about probability theory and algebra.
 </p>
 
-1. 💪 I am currently working on my <a href="https://nus-cs2103-ay2324s2.github.io/website/index.html">CS2103 Software Engineering</a> course work...
-2. 👀 I'm currently learning <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=Lean%20is%20a%20proof%20assistant,source%20project%20hosted%20on%20GitHub.">Lean</a> proof assistant and programming language... through <a href="https://github.com/leanprover-community/mathematics_in_lean">Mathematics in Lean</a> 
-3. 👻 Favourite place: ... university library 
+1. 💪 I am currently working on my toy [ray tracer](https://github.com/biinnnggggg/trace-racer) program written in Python 🐍🐍
+3. 👀 I'm currently learning <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=Lean%20is%20a%20proof%20assistant,source%20project%20hosted%20on%20GitHub.">Lean</a> proof assistant and programming language... through <a href="https://github.com/leanprover-community/mathematics_in_lean">Mathematics in Lean</a> 
+4. 👻 Favourite place: ... university library 
 <br>
 
 <center>
