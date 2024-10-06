@@ -37,11 +37,11 @@
 <h2>About Me</h2>
 
 <p>
-    Second-year Maths student @ the National University of Singapore. Enthusiastic about probability theory and algebra.
+    Third-year Maths student @ the National University of Singapore.
 </p>
 
 1. 💪 I am currently working on my toy [ray tracer](https://github.com/biinnnggggg/trace-racer) program written in Python 🐍🐍
-3. 👀 I'm currently learning <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=Lean%20is%20a%20proof%20assistant,source%20project%20hosted%20on%20GitHub.">Lean</a> proof assistant and programming language... through <a href="https://github.com/leanprover-community/mathematics_in_lean">Mathematics in Lean</a> 
+3. 👀 I'm currently learning Rust Programming Language
 4. 👻 Favourite place: ... university library 
 <br>
 
