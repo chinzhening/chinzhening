@@ -47,8 +47,8 @@
 <h2>Stats</h2>
 
 <p float="left">
-  <a href="https://github.com/biinnnggggg/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=biinnnggggg&show_icons=true&theme=dracula"/>
+  <a href="https://github.com/chinzhening/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinzhening&show_icons=true&theme=dracula"/>
   </a>
   <!--
   <a href="https://github.com/biinnnggggg/">
@@ -61,8 +61,8 @@
     <summary>
         <b>Wakatime Stats</b>
     </summary>
-    <a href="https://github.com/biinnnggggg/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=biinnnggggg&layout=compact&theme=dracula"/>
+    <a href="https://github.com/chinzhening/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=chinzhening&layout=compact&theme=dracula"/>
     </a>
 </details>
 </center>
