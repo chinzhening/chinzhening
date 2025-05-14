@@ -40,9 +40,7 @@
     Third-year Maths student @ the National University of Singapore.
 </p>
 
-1. 💪 I am currently working on my toy [ray tracer](https://github.com/biinnnggggg/trace-racer) program written in Python 🐍🐍
-3. 👀 I'm currently learning Rust Programming Language
-4. 👻 Favourite place: ... university library 
+1. 👀 I'm currently learning Rust Programming Language
 <br>
 
 <center>
