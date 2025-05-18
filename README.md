@@ -57,12 +57,4 @@
   -->
 </p>
 
-<details>
-    <summary>
-        <b>Wakatime Stats</b>
-    </summary>
-    <a href="https://github.com/chinzhening/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=chinzhening&layout=compact&theme=dracula"/>
-    </a>
-</details>
 </center>
