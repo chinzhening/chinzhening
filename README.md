@@ -37,10 +37,9 @@
 <h2>About Me</h2>
 
 <p>
-    Third-year Maths student @ the National University of Singapore.
+    FInal-year Maths student @ the National University of Singapore.
 </p>
 
-1. 👀 I'm currently learning Rust Programming Language
 <br>
 
 <center>
