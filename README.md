@@ -38,8 +38,6 @@
 <center>
 <h2>Stats</h2>
 
-<p float="left">
-  <figure><embed src="https://wakatime.com/share/@chinzhening/08e220d6-6b7f-49fe-bc38-df63a7b87a10.svg"></embed></figure>
-</p>
-
 </center>
+
+[![GitHub Stats](https://chinzhening.github.io/github-metrics/card.svg)](https://github.com/chinzhening)
