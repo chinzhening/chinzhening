@@ -43,8 +43,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinzhening&show_icons=true&theme=dracula"/>
   </a>
   <!--
-  <a href="https://github.com/biinnnggggg/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biinnnggggg&theme=dracula&layout=compact"/>
+  <a href="https://github.com/chinzhening/">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chinzhening&theme=dracula&layout=compact"/>
   </a>
   -->
 </p>
