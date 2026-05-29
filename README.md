@@ -35,9 +35,7 @@
 
 <br>
 
-<center>
 <h2>Stats</h2>
 
-</center>
-
-[![GitHub Stats](https://chinzhening.github.io/github-metrics/card.svg)](https://github.com/chinzhening)
+[![Wakatime language stats](https://chinzhening.github.io/github-metrics/languages.svg)](https://github.com/chinzhening)
+[![Wakatime project stats](https://chinzhening.github.io/github-metrics/projects.svg)](https://github.com/chinzhening)
