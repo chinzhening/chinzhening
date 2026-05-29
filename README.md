@@ -27,17 +27,10 @@
 </a>
 -->
 
-<center>
-    <h2>Projects</h2>
-    <p>
-        Nothing to see here yet!
-    </p>
-</center>
-
 <h2>About Me</h2>
 
 <p>
-    FInal-year Maths student @ the National University of Singapore.
+    Final-year Maths student @ the National University of Singapore.
 </p>
 
 <br>
