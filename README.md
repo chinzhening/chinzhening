@@ -39,14 +39,7 @@
 <h2>Stats</h2>
 
 <p float="left">
-  <a href="https://github.com/chinzhening/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinzhening&show_icons=true&theme=dracula"/>
-  </a>
-  <!--
-  <a href="https://github.com/chinzhening/">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chinzhening&theme=dracula&layout=compact"/>
-  </a>
-  -->
+  <figure><embed src="https://wakatime.com/share/@chinzhening/08e220d6-6b7f-49fe-bc38-df63a7b87a10.svg"></embed></figure>
 </p>
 
 </center>
