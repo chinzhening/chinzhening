@@ -21,9 +21,5 @@
 <br>
 
 <h2>Activity</h2>
-<p>
-    Wakatime code analytics (last 7 days) and github metrics dashboard.
-</p>
 
-![Wakatime language stats](https://chinzhening.github.io/github-metrics/languages.svg)
-![Wakatime project stats](https://chinzhening.github.io/github-metrics/projects.svg)
+![activity report](https://chinzhening.github.io/github-metrics/report.svg)
