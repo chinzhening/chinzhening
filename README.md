@@ -1,41 +1,26 @@
 <p>
-    <h1>Hi there, I'm Zhe Ning</h1>
+    <h1>Hey there, I'm Zhe Ning</h1>
+    Research interests: ML, Monte Carlo and AI.
 </p>
 
-<!-- Badges -->
+<p>
+    Currently I am a Final-year Maths student @ the National University of Singapore.
+</p>
 
-<!--
-<a href="https://www.instagram.com/bing._.chin/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chinzhening">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
--->
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/chinzhening">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://leetcode.com/bingchin03/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%23e39c0e?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/ning_chin03">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-    </a>
-</p>
 <!--
 <a href="[link]">
   <img alt="[text]" src="[img]"/>
 </a>
 -->
 
-<h2>About Me</h2>
-
-<p>
-    Final-year Maths student @ the National University of Singapore.
-</p>
 
 <br>
 
-<h2>Stats</h2>
-
+<h2>Activity</h2>
+Wakatime code analytics (last 7 days) and github metrics dashboard.
 [![Wakatime language stats](https://chinzhening.github.io/github-metrics/languages.svg)](https://github.com/chinzhening)
 [![Wakatime project stats](https://chinzhening.github.io/github-metrics/projects.svg)](https://github.com/chinzhening)
