@@ -4,7 +4,7 @@
 </p>
 
 <p>
-    Currently I am a Final-year Maths student @ the National University of Singapore.
+    Currently I am a final-year Maths student @ the National University of Singapore.
 </p>
 
 <a href="https://www.linkedin.com/in/chinzhening">
@@ -24,5 +24,6 @@
 <p>
     Wakatime code analytics (last 7 days) and github metrics dashboard.
 </p>
-[![Wakatime language stats](https://chinzhening.github.io/github-metrics/languages.svg)](https://github.com/chinzhening)
-[![Wakatime project stats](https://chinzhening.github.io/github-metrics/projects.svg)](https://github.com/chinzhening)
+
+![Wakatime language stats](https://chinzhening.github.io/github-metrics/languages.svg)
+![Wakatime project stats](https://chinzhening.github.io/github-metrics/projects.svg)
