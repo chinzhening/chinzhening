@@ -1,15 +1,28 @@
-<p>
-    <h1>Hey there, I'm Zhe Ning</h1>
-    <p>
-        I am a final year mathematics student @ NUS, interested in Machine Learning, AI and Software (in no order). Sometimes I write about these topics and showcase related projects and experiences on my <a href="https://chinzhening.github.io/portfolio">website</a>.
-    </p>
-</p>
+# Hey, I'm Zhe Ning 👋
 
-<p>
-    Feel free to reach out to me on <a href="https://www.linkedin.com/in/chinzhening">LinkedIn</a>!
-</p>
+Final year Mathematics student at NUS, interested in Machine Learning, AI, and Software Engineering.
+I write about these topics and share projects on my [portfolio](https://chinzhening.github.io/portfolio).
 
-<h2>Activity</h2>
-I coded a service that fetches my recent coding activity from WakaTime and GitHub and display it on a dashboard. Read more about it <a href="https://github/chinzhening/github-metrics">here</a>. 
+📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/chinzhening)
+
+---
+
+## 🛠️ Skills & Tech
+
+Comfortable across data science, ML engineering, and web development.
+
+|  | Tools |
+|---|---|
+| **Languages** | Python, TypeScript, C++ |
+| **ML & Data** | PyTorch, JAX, scikit-learn, pandas, NumPy |
+| **Web** | Svelte |
+| **DevOps & Tools** | GitHub Actions, Git, Linux |
+| **Foundations** | Mathematics, Optimization, Statistics |
+
+---
+
+## 📊 Activity
+
+I built a service that fetches my recent coding activity from WakaTime and GitHub, generates a dashboard, and serves it on GitHub Pages — [read more here](https://github.com/chinzhening/github-metrics).
 
 ![activity report](https://chinzhening.github.io/github-metrics/report.svg)
