@@ -5,7 +5,6 @@ I write about these topics and share projects on my [portfolio](https://chinzhen
 
 📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/chinzhening)
 
----
 
 ## 🛠️ Skills & Tech
 
@@ -13,13 +12,12 @@ Comfortable across data science, ML engineering, and web development.
 
 |  | Tools |
 |---|---|
-| **Languages** | Python, TypeScript, C++ |
+| **Languages** | Python, R, TypeScript, C++ |
 | **ML & Data** | PyTorch, JAX, scikit-learn, pandas, NumPy |
 | **Web** | Svelte |
 | **DevOps & Tools** | GitHub Actions, Git, Linux |
 | **Foundations** | Mathematics, Optimization, Statistics |
 
----
 
 ## 📊 Activity
 
