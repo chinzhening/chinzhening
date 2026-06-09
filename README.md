@@ -1,7 +1,6 @@
 # Hey, I'm Zhe Ning 👋
 
 Final year Mathematics student at NUS, interested in Machine Learning, AI, and Software Engineering.
-I write about these topics and share projects on my [portfolio](https://chinzhening.github.io/portfolio).
 
 📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/chinzhening)
 
