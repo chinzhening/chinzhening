@@ -1,13 +1,11 @@
 # Hey, I'm Zhe Ning 👋
 
-Final year Mathematics student at NUS, interested in Machine Learning, AI, and Software Engineering.
+Final year Mathematics student at NUS, interested in Machine Learning, AI, and Software Engineering. This GitHub page is in the middle of some renovation 🔧🚧🏗️👷
 
 📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/chinzhening)
 
 
 ## 🛠️ Skills & Tech
-
-Comfortable across data science, ML engineering, and web development.
 
 |  | Tools |
 |---|---|
@@ -16,3 +14,5 @@ Comfortable across data science, ML engineering, and web development.
 | **Web** | Svelte, FastAPI |
 | **DevOps & Tools** | GitHub Actions, Git, Docker |
 
+## Activity
+Recently I have been working with Google's Gemini API, and using it to build Chinese learning vocabularies and extract metaphorical meaning, e.g., words frequently appearing in song lyrics that non-native speakers would find unfamiliar and difficult to understand contextually.
