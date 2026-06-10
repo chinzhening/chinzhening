@@ -15,4 +15,4 @@ Final year Mathematics student at NUS, interested in Machine Learning, AI, and S
 | **DevOps & Tools** | GitHub Actions, Git, Docker |
 
 ## Activity
-Recently I have been working with Google's Gemini API, and using it to build Chinese learning vocabularies and extract metaphorical meaning, e.g., words frequently appearing in song lyrics that non-native speakers would find unfamiliar and difficult to understand contextually.
+Recently I have been working with Google's Gemini API, using it to build context-specific Chinese vocabularies, e.g., words frequently appearing in song lyrics that non-native speakers would find unfamiliar and difficult to understand contextually.
