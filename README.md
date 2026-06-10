@@ -11,15 +11,8 @@ Comfortable across data science, ML engineering, and web development.
 
 |  | Tools |
 |---|---|
-| **Languages** | Python, R, TypeScript, C++ |
+| **Languages** | Python, Java, TypeScript, C++ |
 | **ML & Data** | PyTorch, JAX, scikit-learn, pandas, NumPy |
-| **Web** | Svelte |
-| **DevOps & Tools** | GitHub Actions, Git, Linux |
-| **Foundations** | Mathematics, Optimization, Statistics |
+| **Web** | Svelte, FastAPI |
+| **DevOps & Tools** | GitHub Actions, Git, Docker |
 
-
-## 📊 Activity
-
-I built a service that fetches my recent coding activity from WakaTime and GitHub, generates a dashboard, and serves it on GitHub Pages — [read more here](https://github.com/chinzhening/github-metrics).
-
-![activity report](https://chinzhening.github.io/github-metrics/report.svg)
